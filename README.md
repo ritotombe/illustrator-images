@@ -1,5 +1,5 @@
 # illustrator-images
-A trial of creating some pictures
+Free Adobe Illustrator image assets
 
 It is free to use, no need referencing
 No credit necessary
